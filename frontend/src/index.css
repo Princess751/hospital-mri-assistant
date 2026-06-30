@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  font-family: 'IBM Plex Sans', system-ui, -apple-system, sans-serif;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
