@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+weights/
+data/_cache/
+data/train/
+data/val/
+data/studies.db
+*.pt.meta.json
+frontend/node_modules/
+frontend/dist/
